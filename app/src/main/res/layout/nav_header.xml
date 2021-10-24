@@ -10,9 +10,9 @@
     android:theme="@style/ThemeOverlay.AppCompat.Dark">
 
     <ImageView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:src="@mipmap/ic_launcher_round" />
+        android:layout_width="91dp"
+        android:layout_height="76dp"
+        android:src="@drawable/waa" />
 
     <Space
         android:layout_width="match_parent"
@@ -21,11 +21,11 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="MEMBUAT NAVIGATION"
+        android:text="ARUL ANGGARA"
         android:textAppearance="@style/TextAppearance.AppCompat.Body1" />
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="ARUL ANGGARA 135" />
+        android:text="1918135" />
 </LinearLayout>

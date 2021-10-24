@@ -3,12 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/USER/AndroidStudioProjects/Per3_1918135/app/src/main/res/layout/activity_main.xml" value="0.33" />
-        <entry key="..\:/Users/USER/AndroidStudioProjects/Per3_1918135/app/src/main/res/layout/fragment_chat.xml" value="0.209375" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Per3_1918135/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Per3_1918135/app/src/main/res/layout/fragment_chat.xml" value="0.22" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/Per3_1918135/app/src/main/res/layout/fragment_message.xml" value="0.209375" />
-        <entry key="..\:/Users/USER/AndroidStudioProjects/Per3_1918135/app/src/main/res/layout/fragment_profile.xml" value="0.209375" />
-        <entry key="..\:/Users/USER/AndroidStudioProjects/Per3_1918135/app/src/main/res/layout/nav_header.xml" value="0.33" />
-        <entry key="..\:/Users/USER/AndroidStudioProjects/Per3_1918135/app/src/main/res/menu/draw_menu.xml" value="0.209375" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Per3_1918135/app/src/main/res/layout/fragment_panggilan.xml" value="0.22" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Per3_1918135/app/src/main/res/layout/fragment_profile.xml" value="0.18" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Per3_1918135/app/src/main/res/layout/fragment_status.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Per3_1918135/app/src/main/res/layout/nav_header.xml" value="0.2" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Per3_1918135/app/src/main/res/menu/draw_menu.xml" value="0.25" />
       </map>
     </option>
   </component>

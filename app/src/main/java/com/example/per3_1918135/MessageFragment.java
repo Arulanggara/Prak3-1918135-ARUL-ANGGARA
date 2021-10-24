@@ -16,6 +16,6 @@ public class MessageFragment extends Fragment {
                              @Nullable ViewGroup container, @Nullable Bundle
                                      savedInstanceState) {
         return
-                inflater.inflate(R.layout.fragment_message,container,false);
+                inflater.inflate(R.layout.fragment_panggilan,container,false);
     }
 }
